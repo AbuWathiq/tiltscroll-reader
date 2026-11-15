@@ -1,0 +1,9 @@
+{
+  "name": "TiltScroll Reader",
+  "short_name": "TiltScroll",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f8",
+  "theme_color": "#172b3d",
+  "icons": []
+}
